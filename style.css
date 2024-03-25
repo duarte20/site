@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body
+{
+  text-align: center;
+  background: linear-gradient(0deg, rgb(190,114,241), rgb(225, 187, 250));
+color: pink;
+  font-size: 12pt;
+  font-family: Arial
+
+
+
+}
+
+a
+{
+  text-decoration: none;
+
+}
